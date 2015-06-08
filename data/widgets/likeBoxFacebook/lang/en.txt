@@ -1,0 +1,1 @@
+widgets.likeBoxFacebook.smallhelp = Shows the standard LikeBox for fanpage on Facebook

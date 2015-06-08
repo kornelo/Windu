@@ -1,0 +1,1 @@
+ widgets.slideLikeBox.smallhelp = Показывает скольжения LikeBox для фан-страницу на Facebook

@@ -1,0 +1,1 @@
+ widgets.shareButtons.smallhelp = Zeigt die Dropdown-Liste der Schaltflächen verwendet Aktien

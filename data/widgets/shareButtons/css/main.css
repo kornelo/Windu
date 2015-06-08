@@ -1,0 +1,122 @@
+.sharebuttons {
+    position: relative; 
+    width: 100px;
+    margin: 0 auto;
+    padding: 10px 15px;
+    background: #fff;
+    border-left: 5px solid grey;
+    cursor: pointer;
+    outline: none;
+}
+
+.sharebuttons:after {
+    content: "";
+    width: 0;
+    height: 0;
+    position: absolute;
+    right: 16px;
+    top: 50%;
+    margin-top: -3px;
+    border-width: 6px 6px 0 6px;
+    border-style: solid;
+    border-color: grey transparent;
+}
+
+.sharebuttons .dropdown {
+ 	padding: 0px;
+    position: absolute;
+    top: 100%;
+    left: -5px;
+    right: 0px;
+  	margin: 0px;
+    background: white;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -ms-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+    list-style: none;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.sharebuttons .dropdown li a {
+    display: block;
+    text-decoration: none;
+    color: #333;
+    border-left: 5px solid;
+    padding: 10px;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -ms-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+
+.sharebuttons .dropdown li:nth-child(1) a { 
+    border-left-color: #00ACED;
+}
+
+.sharebuttons .dropdown li:nth-child(2) a {
+    border-left-color: #4183C4;
+}
+
+.sharebuttons .dropdown li:nth-child(3) a {
+    border-left-color: #3B5998;
+}
+
+.sharebuttons .dropdown li i {
+    margin-right: 5px;
+    color: inherit;
+    vertical-align: middle;
+}
+
+
+.sharebuttons .dropdown li:hover a {
+    color: grey;
+}
+
+
+.sharebuttons.active:after {
+    border-width: 0 6px 6px 6px;
+}
+
+.sharebuttons.active .dropdown {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+
+
+.no-opacity       .sharebuttons .dropdown,
+.no-pointerevents .sharebuttons .dropdown {
+    display: none;
+    opacity: 1; 
+    pointer-events: auto; 
+}
+
+.no-opacity       .sharebuttons.active .dropdown,
+.no-pointerevents .sharebuttons.active .dropdown {
+    display: block;
+}
+
+.facebook-icon, .google-icon, .twitter-icon{
+  display: inline-block;
+  line-height: 16px;
+  vertical-align: text-top;
+  margin-top: -2px;
+  width: 16px;
+  height: 16px;
+}
+.facebook-icon{
+  background: url(../img/facebook.png) no-repeat;
+}
+
+.google-icon{
+  background: url(../img/google.png) no-repeat;
+}
+
+.twitter-icon{
+  background: url(../img/twitter.png) no-repeat;
+}
+

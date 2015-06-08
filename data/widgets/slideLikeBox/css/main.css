@@ -1,0 +1,3 @@
+#fbplikebox{display: block;padding: 0;z-index: 99999;position: fixed;background-color: #fff;}
+
+.fbplbadge {display: block;height: 150px;top: 50%;margin-top: -75px;position: absolute;left: -35px;width: 47px;background-image: url("../img/facebook.png");background-repeat: no-repeat;overflow: hidden;-webkit-border-top-left-radius: 8px;-webkit-border-bottom-left-radius: 8px;-moz-border-radius-topleft: 8px;-moz-border-radius-bottomleft: 8px;border-top-left-radius: 8px;border-bottom-left-radius: 8px;}

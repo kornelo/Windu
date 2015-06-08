@@ -1,0 +1,1 @@
+widgets.likeBoxFacebook.smallhelp = Muestra el Likebox estándar para la página de fans en Facebook

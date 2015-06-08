@@ -1,0 +1,1 @@
+ widgets.slideLikeBox.smallhelp = Mostra il LikeBox scorrevole per la pagina fan su Facebook

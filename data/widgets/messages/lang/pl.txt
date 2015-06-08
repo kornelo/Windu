@@ -1,0 +1,1 @@
+widgets.messages.smallhelp = Wyświetla skrzynkę z wiadomościami

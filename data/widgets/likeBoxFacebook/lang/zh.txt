@@ -1,0 +1,1 @@
+ widgets.likeBoxFacebook.smallhelp = 显示了标准LikeBox为的Fanpage在Facebook

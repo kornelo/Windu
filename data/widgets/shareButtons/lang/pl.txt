@@ -1,0 +1,1 @@
+widgets.shareButtons.smallhelp = Pokazuje rozwijalną listę przycisków udostępniania

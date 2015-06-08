@@ -1,0 +1,1 @@
+ widgets.slideLikeBox.smallhelp = 显示为风扇页的滑动LikeBox在Facebook

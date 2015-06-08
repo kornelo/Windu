@@ -1,0 +1,1 @@
+widgets.commentsFacebook.smallhelp = Mostrar los comentarios de Facebook

@@ -1,0 +1,1 @@
+widgets.messages.smallhelp = Muestra un cuadro de mensaje 

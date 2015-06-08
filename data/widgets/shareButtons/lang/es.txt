@@ -1,0 +1,1 @@
+widgets.shareButtons.smallhelp = Muestra la lista desplegable de los botones que se utilizan cuota

@@ -1,0 +1,1 @@
+ widgets.commentsFacebook.smallhelp = Kommentare von Facebook anzeigen

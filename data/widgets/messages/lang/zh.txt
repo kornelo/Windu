@@ -1,0 +1,1 @@
+ widgets.messages.smallhelp = 显示一个消息框

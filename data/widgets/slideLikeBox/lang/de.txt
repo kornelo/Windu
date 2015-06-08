@@ -1,0 +1,1 @@
+ widgets.slideLikeBox.smallhelp = Zeigt die Schiebe LikeBox für Fan-Seite auf Facebook

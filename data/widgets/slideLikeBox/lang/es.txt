@@ -1,0 +1,1 @@
+widgets.slideLikeBox.smallhelp = Muestra el Likebox deslizante para fanpage en Facebook

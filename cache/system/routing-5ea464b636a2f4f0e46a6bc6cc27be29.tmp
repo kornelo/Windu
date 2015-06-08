@@ -1,0 +1,1 @@
+a:2:{s:5:"route";a:4:{s:7:"pattern";s:26:"/admin/mainDo/#action/#id/";s:10:"parameters";a:2:{s:4:"name";s:18:"admin-do-action-id";s:10:"controller";s:17:"adminDoController";}s:12:"variableName";a:2:{i:0;s:6:"action";i:1;s:2:"id";}s:6:"regexp";s:41:"/^\/admin\/mainDo\/([^\/]+)\/([^\/]+)\/$/";}s:9:"variables";a:2:{s:6:"action";s:12:"toggleConfig";s:2:"id";s:13:"smallSidebar1";}}
